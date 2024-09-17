@@ -1,4 +1,4 @@
-<script setup lang="ts">
+<script setup>
 import { ref } from 'vue'
 import Hero from './components/Hero.vue';
 import Navbar from './components/element/Navbar.vue';
