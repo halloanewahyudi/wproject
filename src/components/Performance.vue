@@ -38,7 +38,6 @@
                             <div class="h-1  bg-secondary block" :style="{ width: `${progress}%`, }"></div>
                         </div>
                         <button @click="closeVideo">
-                            <p> case project adipradanalestari</p>
                             <IconCloseVue class="text-light w-4 h-4" />
                         </button>
                         <button @click="toggle"><IconViewVue class="text-light w-4 h-4" /> </button>
