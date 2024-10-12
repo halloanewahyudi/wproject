@@ -81,7 +81,14 @@ const porto = [
         dibuat: 'Wordpress, Woocommrce, Bootstsrap',
         image: '/porto/tokobawana.jpg',
         link: 'https://tokobawana.com/'
+    },
+    {
+        nama: 'Menu Resto',
+        dibuat: 'Wordpress (backend), Vue Js, Tailwind css',
+        image: '/porto/resto.png',
+        link: 'https://resto.ardanadutaperkasa.com/'
     }
+    
 ]
 </script>
 
