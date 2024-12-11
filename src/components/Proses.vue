@@ -118,7 +118,7 @@ const steping = [
     },
     {
         title: 'Pemeliharaan',
-        description: 'Setelah peluncuran, kami menyediakan layanan pemeliharaan berkala untuk memastikan website tetap aman, terupdate, dan berjalan lancar. Kami siap membantu klien dengan pembaruan konten, perbaikan bug, atau penambahan fitur di masa depan.   Narasi ini menggambarkan seluruh proses mulai dari konsep hingga launching yang terstruktur dan memastikan website memenuhi harapan dan kebutuhan klien.',
+        description: 'Setelah peluncuran, kami menyediakan layanan pemeliharaan berkala untuk memastikan website tetap aman, terupdate, dan berjalan lancar. Kami siap membantu klien dengan pembaruan konten, perbaikan bug, atau penambahan fitur di masa depan.',
         bg: '/steping/img8.jpg'
     }
 ]
